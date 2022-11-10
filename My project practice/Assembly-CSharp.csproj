@@ -54,13 +54,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Script_04_04.cs" />
+    <Compile Include="Assets\Scripts\Script_05_06.cs" />
     <Compile Include="Assets\Scripts\Script_04_06.cs" />
+    <Compile Include="Assets\Scripts\Script_05_05.cs" />
     <Compile Include="Assets\Scripts\Script_05_03.cs" />
     <Compile Include="Assets\Scripts\Script_05_02.cs" />
-    <Compile Include="Assets\Scripts\Script_04_09.cs" />
     <Compile Include="Assets\Scripts\Script_05_04.cs" />
-    <Compile Include="Assets\Scripts\Script_05_05.cs" />
-    <Compile Include="Assets\Scripts\Script_05_06.cs" />
+    <Compile Include="Assets\Scripts\Script_04_09.cs" />
+    <Compile Include="Assets\Scripts\Script_05_07.cs" />
+    <Compile Include="Assets\Scripts\UGUIEventListener.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
