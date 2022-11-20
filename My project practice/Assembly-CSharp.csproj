@@ -60,10 +60,11 @@
     <Compile Include="Assets\Scripts\Script_05_03.cs" />
     <Compile Include="Assets\Scripts\Script_05_02.cs" />
     <Compile Include="Assets\Scripts\Script_05_04.cs" />
+    <Compile Include="Assets\Scripts\Test.cs" />
     <Compile Include="Assets\Scripts\UGUIEventListener.cs" />
     <Compile Include="Assets\Scripts\Script_05_07.cs" />
     <Compile Include="Assets\Scripts\Script_04_09.cs" />
-    <Compile Include="Assets\Scripts\Test.cs" />
+    <Compile Include="Assets\Scripts\ConstantScaler.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
